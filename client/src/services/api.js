@@ -1,4 +1,4 @@
-const API_BASE = 'const API_BASE = 'https://supportbrain-d12o-4xuj8f4w-haritejaswini88-devs-projects.vercel.app/api';
+const API_BASE = 'https://supportbrain-d12o-ihl3fw1zu-haritejaswini88-devs-projects.vercel.app/api';
 
 async function fetchJson(endpoint, options = {}) {
   const url = `${API_BASE}${endpoint}`;
